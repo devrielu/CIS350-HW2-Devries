@@ -1,11 +1,11 @@
 # CIS350-HW2-Devries
 
-# Interests
+## Interests
 *
 *
 *
 
-# Technical Background
+## Technical Background
 
-# Favorite Meme
+## Favorite Meme
 
